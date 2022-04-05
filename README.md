@@ -1,8 +1,8 @@
-<code>🎓 Web Developer</code>
-<code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
+<code>💻 Web Developer</code>
 <code>🧑‍💻 Languages: JavaScript, GLSL</code>
-<code>📦 Tech stack: Node.js, Svelte</code>
+<code>📦 Tech stack: Node.js, Svelte</code><br/>
+<code>🤹🏻 [Skills](SKILLS.md)</code>
+<code>🏗 [Projects](PROJECTS.md)</code>
+<code>📚 [Education](EDUCATION.md)</code>
 <code>💬 Telegram: [@ax2mx](https://t.me/ax2mx)</code>
-<code>📫 [ax2mx@ya.ru](mailto:ax2mx@ya.ru)</code>
+<code>✉️ Mail: [ax2mx@ya.ru](mailto:ax2mx@ya.ru)</code>
