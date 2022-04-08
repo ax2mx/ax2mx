@@ -4,4 +4,5 @@
 <code>🏗 [Projects](PROJECTS.md)</code>
 <code>📚 [Education](EDUCATION.md)</code>
 <code>💬 Telegram: [@ax2mx](https://t.me/ax2mx)</code>
-<code>✉️ Mail: [ax2mx@ya.ru](mailto:ax2mx@ya.ru)</code>
+<code>✉️ Mail: [ax2mx@ya.ru](mailto:ax2mx@ya.ru)</code><br/>
+<code>![](https://www.codewars.com/users/ax2mx/badges/micro)</code>
