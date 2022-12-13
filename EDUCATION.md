@@ -1,4 +1,4 @@
 # Education
 
-- Moscow Institute of Electronics and Mathematics
+- Moscow State Institute of Electronics and Mathematics
 - British Higher School of Art & Design
