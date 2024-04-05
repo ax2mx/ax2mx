@@ -15,8 +15,12 @@ Throughout many projects I've been designing and coding web applications, writin
 
 ### Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-181717?logo=typescript) ![Svelte](https://img.shields.io/badge/Svelte-181717?logo=svelte) ![NodeJS](https://img.shields.io/badge/NodeJS-181717?logo=nodedotjs) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?logo=tailwindcss) ![TypeScript](https://img.shields.io/badge/web3js-181717?logo=web3dotjs) ![Jest](https://img.shields.io/badge/Jest-181717?logo=jest) ![Playwright](https://img.shields.io/badge/Playwright-181717?logo=playwright)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-181717?logo=typescript) ![Svelte](https://img.shields.io/badge/Svelte-181717?logo=svelte)
+![Vue](https://img.shields.io/badge/Vue-181717?logo=vuedotjs) ![NodeJS](https://img.shields.io/badge/NodeJS-181717?logo=nodedotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?logo=tailwindcss) ![TypeScript](https://img.shields.io/badge/web3js-181717?logo=web3dotjs) ![Jest](https://img.shields.io/badge/Jest-181717?logo=jest) ![Playwright](https://img.shields.io/badge/Playwright-181717?logo=playwright)
+
 ![HTML](https://img.shields.io/badge/HTML-181717?logo=html5) ![CSS](https://img.shields.io/badge/CSS-181717?logo=css3) ![SVG](https://img.shields.io/badge/SVG-181717?logo=svg) ![Storybook](https://img.shields.io/badge/Storybook-181717?logo=storybook) ![p5.js](https://img.shields.io/badge/P5-181717?logo=p5dotjs) ![three.js](https://img.shields.io/badge/Threejs-181717?logo=threedotjs) ![chart.js](https://img.shields.io/badge/ChartJS-181717?logo=chartdotjs) ![Git](https://img.shields.io/badge/Git-181717?logo=git)
+
 ![Figma](https://img.shields.io/badge/Figma-181717?logo=figma) ![Illustrator](https://img.shields.io/badge/Illustator-181717?logo=adobe-illustrator) ![Fusion](https://img.shields.io/badge/Fusion%20360-181717?logo=autodesk) ![Blender](https://img.shields.io/badge/Blender-181717?logo=blender)
 
 ### Education
